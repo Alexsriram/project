@@ -1,3 +1,6 @@
 this is chandu
 ok
+<<<<<<< Updated upstream
 bye
+=======
+>>>>>>> Stashed changes
